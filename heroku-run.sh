@@ -1,1 +1,1 @@
-heroku open -a gls-pet-pals
+heroku open -a gls-pet-pals-2

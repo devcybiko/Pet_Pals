@@ -1,1 +1,1 @@
-heroku run python initdb.py -a gls-pet-pals
+heroku run python initdb.py -a gls-pet-pals-2
